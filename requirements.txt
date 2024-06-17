@@ -1,0 +1,16 @@
+bottle==0.12.25
+cffi==1.16.0
+clr-loader==0.2.6
+ibapi==10.29.1
+lightweight-charts==1.0.21
+numpy==1.26.4
+pandas==2.2.2
+proxy-tools==0.1.0
+pycparser==2.22
+python-dateutil==2.9.0.post0
+pythonnet==3.0.3
+pytz==2024.1
+pywebview==5.1
+six==1.16.0
+typing_extensions==4.11.0
+tzdata==2024.1
