@@ -21,13 +21,14 @@ git clone https://github.com/P-Dhanush/DESKTOP-STOCK-WATCHER-TWS-API-.git
 ```
 2. Navigate to the project directory:
 ```sh
-cd your-repository
+cd DESKTOP-STOCK-WATCHER-TWS-API-
 ```
 
 3. Install dependencies:
 ```sh
 pip install -r requirements.txt
 ```
+NOTE: You will be unable to download ibapi from pypi, so as mentioned previously you must dowload the workstation from which you'll be able to access it. Download that zip file into this location, and unzip. The module will become accessible.
 
 Credits
 This project is based on a tutorial from the blog Hacking the Markets. Many thanks to the original author for providing a comprehensive guide on using the Interactive Brokers TWS API.
